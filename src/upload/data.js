@@ -322,7 +322,17 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
-
+  {
+    name: "Aayushi Das",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/59438172?v=4",
+    skills: ['C/C++', 'HTML', 'CSS', 'JavaScript', 'Python','AI/ML'],
+    link: [
+      "https://github.com/Aayushi-das",
+      "https://linkedin.com/in/aayushi-das-7442491aa",
+      "https://twitter.com/damnzzzzz_20",
+    ],
+  }
 ];
 
 
